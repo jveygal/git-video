@@ -1,0 +1,13 @@
+---
+title: "Github file"
+output: html_document
+date: '2022-05-03'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Github setup test
+
+my first github file
